@@ -28,7 +28,7 @@
 <img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/apple/apple.png" />
 <img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png" />
 
-<br />
+<br /><br />
 
 ### 💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
