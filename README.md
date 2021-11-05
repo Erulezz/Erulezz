@@ -5,6 +5,15 @@
 
 [website]: https://erulezz.dev
 
+### 💻 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [DirectAdmin Push notifications with Pushover](https://erulezz.dev/directadmin-push-notifications-with-pushover/)
+- [Block TLDs in Exim for DirectAdmin](https://erulezz.dev/block-tlds-in-exim-for-directadmin/)
+- [Disable WordPress functions XML-RPC and Press-This](https://erulezz.dev/disable-wordpress-functions-xml-rpc-press-this/)
+- [Laravel Cookie Consent: With Bootstrap and Axios](https://erulezz.dev/laravel-cookie-consent-bootstrap-axios/)
+- [Laravel Homestead Request Entity Too Large](https://erulezz.dev/laravel-homestead-request-entity-too-large/)
+<!-- BLOG-POST-LIST:END -->
+
 ### 👨‍💻 Languages and Tools
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
@@ -27,14 +36,3 @@
 <img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png" />
 <img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/apple/apple.png" />
 <img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png" />
-
-<br /><br /><br />
-
-### 💻 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [DirectAdmin Push notifications with Pushover](https://erulezz.dev/directadmin-push-notifications-with-pushover/)
-- [Block TLDs in Exim for DirectAdmin](https://erulezz.dev/block-tlds-in-exim-for-directadmin/)
-- [Disable WordPress functions XML-RPC and Press-This](https://erulezz.dev/disable-wordpress-functions-xml-rpc-press-this/)
-- [Laravel Cookie Consent: With Bootstrap and Axios](https://erulezz.dev/laravel-cookie-consent-bootstrap-axios/)
-- [Laravel Homestead Request Entity Too Large](https://erulezz.dev/laravel-homestead-request-entity-too-large/)
-<!-- BLOG-POST-LIST:END -->
