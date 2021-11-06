@@ -7,11 +7,11 @@
 
 ### 💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CentOS 8 to RockyLinux migration](https://erulezz.dev/centos-8-to-rockylinux-migration/)
 - [PHPRedis installation on DirectAdmin](https://erulezz.dev/phpredis-installation-on-directadmin/)
 - [DirectAdmin Push notifications with Pushover](https://erulezz.dev/directadmin-push-notifications-with-pushover/)
 - [Block TLDs in Exim for DirectAdmin](https://erulezz.dev/block-tlds-in-exim-for-directadmin/)
 - [Disable WordPress functions XML-RPC and Press-This](https://erulezz.dev/disable-wordpress-functions-xml-rpc-press-this/)
-- [Laravel Cookie Consent: With Bootstrap and Axios](https://erulezz.dev/laravel-cookie-consent-bootstrap-axios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Languages and Tools
