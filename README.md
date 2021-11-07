@@ -16,6 +16,12 @@
 
 ---
 
+### 👨‍💻 Latest StackOverflow activities
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+---
+
 ### 👨‍💻 Languages and Tools
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />][websitelaravel]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />][websitephp]
