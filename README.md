@@ -18,6 +18,11 @@
 
 ### 👨‍💻 Latest StackOverflow activities
 <!-- STACKOVERFLOW:START -->
+- [Answer by EricH206 for NSURLErrorDomain Code=-1004 for few seconds after app start up](https://stackoverflow.com/questions/36907767/nsurlerrordomain-code-1004-for-few-seconds-after-app-start-up/37444404#37444404)
+- [Different rootviewcontrollers for targets](https://stackoverflow.com/questions/31167892/different-rootviewcontrollers-for-targets)
+- [Answer by EricH206 for laravel eloquent : Increments visits column by one for every visits](https://stackoverflow.com/questions/30996216/laravel-eloquent-increments-visits-column-by-one-for-every-visits/30998717#30998717)
+- [Answer by EricH206 for UISearchController doesn't hide view when pushed](https://stackoverflow.com/questions/30937275/uisearchcontroller-doesnt-hide-view-when-pushed/30986095#30986095)
+- [Play framework authentication, like htaccess](https://stackoverflow.com/questions/30572810/play-framework-authentication-like-htaccess)
 <!-- STACKOVERFLOW:END -->
 
 ---
