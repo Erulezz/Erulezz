@@ -7,11 +7,11 @@
 
 ### 💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimize SpamAssassin with DirectAdmin](https://erulezz.dev/optimize-spamassassin-with-directadmin/)
 - [Deploy Laravel with Git Hooks](https://erulezz.dev/deploy-laravel-with-git-hooks/)
 - [CentOS 8 to RockyLinux migration](https://erulezz.dev/centos-8-to-rockylinux-migration/)
 - [PHPRedis installation on DirectAdmin](https://erulezz.dev/phpredis-installation-on-directadmin/)
 - [DirectAdmin Push notifications with Pushover](https://erulezz.dev/directadmin-push-notifications-with-pushover/)
-- [Block TLDs in Exim for DirectAdmin](https://erulezz.dev/block-tlds-in-exim-for-directadmin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
