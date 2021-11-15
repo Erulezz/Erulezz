@@ -7,11 +7,11 @@
 
 ### 💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [ClamAV DirectAdmin installation with Email and FTP scanning](https://erulezz.dev/clamav-directadmin-installation-email-ftp-scanning/)
-- [How to install NodeJS &amp; NPM on Rocky Linux](https://erulezz.dev/how-to-install-nodejs-npm-on-rocky-linux/)
-- [Optimize SpamAssassin with DirectAdmin](https://erulezz.dev/optimize-spamassassin-with-directadmin/)
-- [Deploy Laravel with Git Hooks](https://erulezz.dev/deploy-laravel-with-git-hooks/)
-- [CentOS 8 to RockyLinux migration](https://erulezz.dev/centos-8-to-rockylinux-migration/)
+- [ClamAV DirectAdmin installation with Email and FTP scanning](https://erulezz.dev/directadmin/clamav-directadmin-installation-email-ftp-scanning/)
+- [How to install NodeJS &amp; NPM on Rocky Linux](https://erulezz.dev/linux/how-to-install-nodejs-npm-on-rocky-linux/)
+- [Optimize SpamAssassin with DirectAdmin](https://erulezz.dev/directadmin/optimize-spamassassin-with-directadmin/)
+- [Deploy Laravel with Git Hooks](https://erulezz.dev/laravel/deploy-laravel-with-git-hooks/)
+- [CentOS 8 to RockyLinux migration](https://erulezz.dev/linux/centos-8-to-rockylinux-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
