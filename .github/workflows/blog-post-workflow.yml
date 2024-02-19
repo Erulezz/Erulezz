@@ -4,13 +4,18 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write
     
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Fetch posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://erulezz.dev/feed"
+          max_posts_count: 10
