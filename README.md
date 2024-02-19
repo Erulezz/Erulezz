@@ -12,6 +12,11 @@
 - [How to install NodeJS &amp; NPM on Rocky Linux](https://erulezz.dev/linux/how-to-install-nodejs-npm-on-rocky-linux/)
 - [Optimize SpamAssassin with DirectAdmin](https://erulezz.dev/directadmin/optimize-spamassassin-with-directadmin/)
 - [Deploy Laravel with Git Hooks](https://erulezz.dev/laravel/deploy-laravel-with-git-hooks/)
+- [CentOS 8 to RockyLinux migration](https://erulezz.dev/linux/centos-8-to-rockylinux-migration/)
+- [PHPRedis installation on DirectAdmin](https://erulezz.dev/php/phpredis-installation-on-directadmin/)
+- [DirectAdmin Push notifications with Pushover](https://erulezz.dev/directadmin/directadmin-push-notifications-with-pushover/)
+- [Block TLDs in Exim for DirectAdmin](https://erulezz.dev/directadmin/block-tlds-in-exim-for-directadmin/)
+- [Disable WordPress functions XML-RPC and Press-This](https://erulezz.dev/wordpress/disable-wordpress-functions-xml-rpc-press-this/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
